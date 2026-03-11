@@ -11,4 +11,4 @@
 - [ ] Vision Transformer Crowd Counting papers
 
 ## Surveys
-- [] Keiron O’Shea & Ryan Nash, 2015 – Intro to CNNs
+- [ ] Keiron O’Shea & Ryan Nash, 2015 – Intro to CNNs
