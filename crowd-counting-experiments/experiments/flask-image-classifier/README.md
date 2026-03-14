@@ -109,3 +109,7 @@ The application categorizes predictions into three confidence levels:
 - TensorFlow 2.x
 - Pillow (PIL)
 - Modern web browser
+
+### **Tutorial Reference**  
+- **[Convolutional Neural Networks from Scratch](https://www.youtube.com/watch?v=0nr6TPKlrN0&t=2s)** - YouTube Tutorial
+  - Hands on tutorial on how to deploy an ML model with Python using Flask.
